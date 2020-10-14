@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "TestMyEmail",
-      "setup": "sudo -H pip3 install setuptools pytest",
+      "setup": "sudo -H pip3 install pytest",
       "run": "pytest",
       "input": "",
       "output": "",
